@@ -29,3 +29,8 @@ Demographic info about customers – gender, age range, and if they have partner
 
 ![image](https://github.com/Bamit-2021/Customer_Churn_Analysis/assets/77608956/b2081a4a-5c0c-4204-85fa-6472a28eaf51)
 
+-------
+
+For More Information Please review the full analysis in the [final notebook](url).
+
+For any additional questions, feel free to email me at patroamit358@gmail.com
